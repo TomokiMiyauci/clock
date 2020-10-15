@@ -1,6 +1,6 @@
 import { Fragment, h } from 'preact'
 
-import { Logo } from '/@/logo'
+import { Logo } from '/@/components/logo'
 
 export const App = () => {
   return (
