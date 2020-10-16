@@ -1,4 +1,5 @@
-import './index.css'
+import '/@/assets/tailwind.css'
+import '/@/assets/index.css'
 
 import { h, render } from 'preact'
 
